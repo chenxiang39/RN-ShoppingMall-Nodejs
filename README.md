@@ -1,6 +1,7 @@
 ## Environmental configuration 
 
-* Install [MongoDB Community Edition](https://docs.mongodb.com/manual/administration/install-community/)**（It also has Introduce on running the MongoDB Service）**
+
+* Install [MongoDB Community Edition](https://docs.mongodb.com/manual/administration/install-community/)**（It also introduces how to run the MongoDB Service）**
 
 * Install [Nodejs and Npm](https://nodejs.org/en/download/)
 
