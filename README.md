@@ -1,9 +1,4 @@
-# Online shopping application's Back-end
-
-
-
-## Environmental configuration
-
+## Environmental configuration 
 
 * Install [MongoDB Community Edition](https://docs.mongodb.com/manual/administration/install-community/)**（It also has Introduce on running the MongoDB Service）**
 
