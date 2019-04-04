@@ -79,5 +79,4 @@ server.use(function(err, req, res, next) {
   });
 });
 
-//导出app对象
 module.exports = server;

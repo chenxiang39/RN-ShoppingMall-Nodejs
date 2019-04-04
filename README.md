@@ -5,28 +5,28 @@
 ## Environmental configuration
 
 
-* Install [MongoDB Community Server](https://docs.mongodb.com/manual/administration/install-community/)**（It also has Introduce on running the MongoDB Service）**
+* Install [MongoDB Community Edition](https://docs.mongodb.com/manual/administration/install-community/)**（It also has Introduce on running the MongoDB Service）**
 
 * Install [Nodejs and Npm](https://nodejs.org/en/download/)
 
 ## How to start it ?
 
-1.Install the modules
+**1.Install the modules**
 ```
 cd (Project path)
 npm install
 ```
-2.Run MongoDB 
+**2.Run MongoDB** 
 
-#### MongoDB Service Info:
+##### MongoDB Service Info:
 * port (```3000```)
 * Data directory path(```mongodb/Data```) 
-#### Instance:
+##### Instance:
 
 ```
 //Mac
 
-mongod --dbpath /Users/chenxiang/Downloads/computer_code_sample/ShoppingCenter/mongodb/Data --port 3000
+mongod --dbpath /Users/chenxiang/code_sample/ShoppingCenter/mongodb/Data --port 3000
 
 ```
 
